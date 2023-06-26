@@ -1,0 +1,1 @@
+(d=document).body.appendChild(p=d.createElement("pre")),i=0,(a=x=>{for(p[q="innerText"]="",j=20;--j;)p[q]+=(j-i?j>i|j+8<i?"":"   "+")("[(i+j)%2]:' .-"-. \n|     |\n -.,.- ')+"\n";++i<20?setTimeout(a,99):p[q]+="happy birthday, PT_!"})()

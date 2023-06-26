@@ -1,0 +1,1 @@
+g=0,n='',setInterval(_=>document.body.innerHTML=(g++)+'<pre>'+"ed9ja8ha4aclple8l8la8d9ja".split(n).map(x=>parseInt(x,32).toString(2).padStart(5,0)).join(n).match(/.{25}/g).map(x=>x.split(n).map((c,i)=>'<b style="background-color:hsl('+(i-g)+' 100% '+50*c+'%)">  ').join(n)).join('<br>'),7)
